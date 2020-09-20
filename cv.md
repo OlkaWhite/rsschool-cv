@@ -13,7 +13,7 @@ My interests: Traveling, Basketball, Music.
 Photoshop, VSCode, HTML, CSS, and JavaScript at the initial stage.
 
 **5. Examples of my work:**  
-https://github.com/OlkaWhite
+[GitHub](https://github.com/OlkaWhite)
 
 **6. Work experience:**  
 My programming experience first appeared in courses at RS School.
