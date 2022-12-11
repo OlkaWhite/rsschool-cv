@@ -1,1 +1,1 @@
-https://OlkaWhite.github.io/rsschool-cv/cv
+https://OlkaWhite.github.io/rsschool-cv/
